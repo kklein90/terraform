@@ -3,6 +3,10 @@
 ## Author
 Kris Klein
 
+## Version
+initial version 0.0.1
+
+## Description
 A lightweight VPC module for Terraform.
 
 ## Usage
