@@ -1,5 +1,8 @@
 # AWS VPC module for Terraform
 
+## Author
+Kris Klein
+
 A lightweight VPC module for Terraform.
 
 ## Usage
